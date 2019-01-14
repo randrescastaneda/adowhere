@@ -2,4 +2,4 @@
 
 Just type **adowhere** *adoname*, where *adoname* stands for the name of the ado-file.
 
-The idea of this ado-file was originated by @jpazvd
+The idea of this ado-file was originated by Joao Pedro Azevedo, @jpazvd
