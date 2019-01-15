@@ -21,7 +21,7 @@ version 14
 /*==================================================
               1: 
 ==================================================*/
-cap which `adoname'
+cap noi which `adoname'
 if (_rc) {
 	noi disp in r "ado `adoname' is not located in any path over which Stata " _n /* 
 	 */ "searches for ado-files. See {help adopath} for help"
