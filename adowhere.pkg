@@ -1,0 +1,8 @@
+v 1.0
+d 'ADOWHERE': ADOWHERE Stata command that returns all the directory paths where a particular Stata command is located
+d 
+d Distribution-Date:   20190115
+d License: MIT
+d 
+F src/a/adowhere.ado
+F src/a/adowhere.sthlp
