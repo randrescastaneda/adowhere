@@ -3,3 +3,9 @@
 Just type **adowhere** *adoname*, where *adoname* stands for the name of the ado-file.
 
 The idea of this ado-file was originated by Joao Pedro Azevedo, @jpazvd
+## Author: 
+
+  **Andres Castaneda**  
+  [acastaneda@worldbank.org](mailto:acastaneda@worldbank.org)  
+  World Bank  
+
