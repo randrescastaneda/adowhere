@@ -51,7 +51,7 @@ foreach path of local paths {
 	if (_rc) continue
 	if (`"`files'"' != `""') {
 		local ++i
-		noi disp in y "Path `i':" _col(12) in w "`path'"
+		noi disp in y _n "Path `i':" _col(12) in w "`path'"
 		noi disp  "{hline 60}"
 		return local path_`i' = "`path'"
 		
